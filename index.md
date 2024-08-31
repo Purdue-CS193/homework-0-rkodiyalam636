@@ -30,6 +30,7 @@ _I am 18 years old_
 
 [Link](url) and ![Image](src)
 ```
+###
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
@@ -40,3 +41,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+# Raghav Kodiyalam's First CS193 HW
+
+- I like working with Terminal
+- I like the speed at which the class moves
+- I like how the class deosn't cause too much stress
